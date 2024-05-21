@@ -56,4 +56,4 @@ This project is licensed under the [Copyright License](LICENSE).
 
 If you have any questions or suggestions, feel free to reach out to us:
 
-- Email: [cli-guide@example.com](mailto:rohitagr2610@example.com)
+- Email: [rohitagr2610@example.com](mailto:rohitagr2610@example.com)
