@@ -50,7 +50,7 @@ As the Solution Architect, Rohit Agarwal has designed the overall architecture o
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Copyright License](LICENSE).
 
 ## Contact
 
